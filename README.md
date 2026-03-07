@@ -25,23 +25,23 @@ Both projects demonstrate custom application development, ERPNext module customi
 
 ## Technologies
 
-Backend  
+Backend  :
 Python  
 MariaDB / MySQL  
 Frappe Framework
 
-Frontend  
+Frontend  :
 JavaScript  
 HTML / CSS  
 Jinja Templates
 
-ERPNext Modules  
+ERPNext Modules  :
 Sales  
 POS  
 HR  
 Inventory
 
-Tools  
+Tools  :
 Git  
 Bench CLI  
 Postman  
@@ -50,7 +50,7 @@ Advanced Excel
 
 ---
 
-## Featured Projects
+## Featured Projects:
 
 ### Typing Center Management System (TCMS)
 
